@@ -13,7 +13,6 @@ root.render(
     <DarkModeProvider>
       <AuthContextProvider>
         <SearchContextProvider>
-          <ScrollToTop />
           <App />
         </SearchContextProvider>
       </AuthContextProvider>
